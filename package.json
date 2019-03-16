@@ -1,5 +1,5 @@
 {
-  "name": "react-firebase-hooks",
+  "name": "@tradesoftware/react-firebase-hooks",
   "version": "1.1.0",
   "description": "React Hooks for Firebase",
   "author": "CS Frequency Limited (https://csfrequency.com)",
